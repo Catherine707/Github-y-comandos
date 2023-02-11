@@ -1,0 +1,27 @@
+CÓDIGO
+
+#include <iostream>
+#include <Windows.h>
+int main()
+{
+    std::cout << "Hello World!\n";
+    std::cout << " Catherine Mishell Coti Godinez\n";
+    std::cout << " 202308071\n";
+    std::cout << " Por motivacion al ver como estudiaba y trabajaba mi tio quien fue la persona que mas me ha motivado\n";
+    return 0;
+}
+
+
+CONSOLA
+
+
+Hello World!
+ Catherine Mishell Coti Godinez
+ 202308071
+ Por motivacion al ver como estudiaba y trabajaba mi tio quien fue la persona que mas me ha motivado
+
+C:\Users\Catherinecoti36\source\repos\Hola mun\Debug\Hola mun.exe (proceso 7104) se cerró con el código 0.
+Para cerrar automáticamente la consola cuando se detiene la depuración, habilite Herramientas ->Opciones ->Depuración ->Cerrar la consola automáticamente al detenerse la depuración.
+Presione cualquier tecla para cerrar esta ventana. . .
+
+
